@@ -1,0 +1,28 @@
+name: 'S&M'
+favicon: null
+layout_spectrum: 0.7054814535658807
+typography_spectrum: 0.3965854358393699
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.8286359317135066
+  lightness: 0.639891100814566
+  saturation: 0.7092902369331568
+  rhythmicContrast: 0.026381204137578607
+purpose: []
